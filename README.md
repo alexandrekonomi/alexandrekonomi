@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm a Java backend developer with experience at Origam Sistemas. I have skills in RESTful web services, Apache Maven, Spring Security, microservices, Spring Boot, SQL, Docker and Java development, in addition to working with relational databases.
 <!--
 **alexandrekonomi/alexandrekonomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
