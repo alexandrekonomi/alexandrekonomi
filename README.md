@@ -1,7 +1,11 @@
 I'm a Java backend developer with experience at Origam Sistemas. I have skills in RESTful web services, Apache Maven, Spring Security, microservices, Spring Boot, SQL, Docker and Java development, in addition to working with relational databases.
 
 
-<a href="https://github.com/alexandrekonomi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrekonomi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alexandre github stats" /></a> | <a href="https://github.com/alexandrekonomi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekonomi&layout=compact&theme=buefy&hide_border=true" /></a> 
+<div>
+<a href="https://github.com/alexandrekonomi">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekonomi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrekonomi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Ferramentas e Tecnologias
