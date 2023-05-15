@@ -1,7 +1,6 @@
 I'm a Java backend developer with experience at Origam Sistemas. I have skills in RESTful web services, Apache Maven, Spring Security, microservices, Spring Boot, SQL, Docker and Java development, in addition to working with relational databases.
 
 
-![Snake animation](https://github.com/alexandrekonomi/alexandrekonomi/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/alexandrekonomi">
